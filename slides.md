@@ -5,7 +5,7 @@
 ---
 
 ## Agenda
-1. Introduction
+1. Introduction 1
 1. Hierarchy
 1. Power
 1. Connection between Power and Hierarchy
