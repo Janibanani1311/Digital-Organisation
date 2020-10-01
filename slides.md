@@ -14,8 +14,18 @@
 ---
 
 ## Introduction
+
+**Leadership implies power**
+
 * status and **power** are two important bases of **hierarchical differentiation**
 * ...
+
+
+---
+
+## Hierarchy
+
+Bild
 
 ---
 
@@ -24,36 +34,75 @@
 _"the classification of a group of people according to ability or to economic, social, or professional standing"_
 
 * word comes from the Greek hierarchēs
-* the word hierarchy is related to a number of governmental words in English
-* such as monarchy, anarchy, and oligarchy
-* now very rarely used in relation to government issues
+*  word hierarchy is related to governmental words in English
+* such as _monarchy, anarchy,_ and _oligarchy_
 
 ---
 
 ## Power
+
+Bild
+
+noun
+* ability to act or produce an effect
+* possession of control, authority, or influence over others
+
+---
+
+**possession of control, authority, or influence over others**
+
+---
+
+## Power
+
 * related to one’s control over valued resources
 * transforms individual psychology
 
 ---
 
-## Connection between Power and Hierarchy
+## Connection between Power & Hierarchy
+
+Studies observed hierarchies and power 
+
+-> longer vertical line increases judged power
+
+
+---
+
+## Connection between Power & Hierarchy
 
 -> the powerful think and act in ways that lead to the retention and acquisition of power
+-> thereby increasing their power 
 
+---
+
+# WHY?
+
+_people are preoccupied_
+* phenomenon of social structure and social order
+* hierarchy is a universal feature of social structure
+
+---
+
+**hierarchy‐enhancing belief systems**
+
+stabilizing hierarchy
+both from the bottom up and from the top down
+
+---
+
+## Literature
+1. _8 Social Hierarchy: The Self‐Reinforcing Nature of Power and Status_, Joe C. Magee and Adam D. Galinsky
+1. _Organizational Behavior and Human Decision Processes_, Volume 104, Issue 1, September 2007, Pages 30-44
+1. _Rogers M.F. (1980) Goffman on Power, Hierarchy, and Status_. In: Ditton J. (eds) The View from Goffman. Palgrave Macmillan, London, Pages 100-101
+1. https://www.merriam-webster.com/dictionary
+1. 
 
 ---
 
 ## Picture
 
 ![Bildschirmfoto 2020-09-10 um 13.26.35.png](Bildschirmfoto 2020-09-10 um 13.26.35.png)
-
-
----
-
-## Literature
-1. _8 Social Hierarchy: The Self‐Reinforcing Nature of Power and Status_, Joe C. Magee and Adam D. Galinsky
-1. https://www.merriam-webster.com/dictionary/hierarchy
-1. 
 
 ---
 
