@@ -5,7 +5,7 @@
 ---
 
 ## Agenda
-1. Introduction 1
+1. Introduction
 1. Hierarchy
 1. Power
 1. Connection between Power and Hierarchy
@@ -88,6 +88,9 @@ _people are preoccupied_
 
 stabilizing hierarchy
 both from the bottom up and from the top down
+
+---
+What is a good leader?
 
 ---
 
