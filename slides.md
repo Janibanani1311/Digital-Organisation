@@ -43,7 +43,7 @@ _"the classification of a group of people according to ability or to economic, s
 
 Bild
 
-noun
+_noun_
 * ability to act or produce an effect
 * possession of control, authority, or influence over others
 
@@ -88,6 +88,9 @@ _people are preoccupied_
 
 stabilizing hierarchy
 both from the bottom up and from the top down
+
+---
+What is a good leader?
 
 ---
 
