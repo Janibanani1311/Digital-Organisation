@@ -94,6 +94,10 @@ What is a good leader?
 
 ---
 
+![GithubQR](Github slides.png)
+
+---
+
 ## Literature
 1. _8 Social Hierarchy: The Self‐Reinforcing Nature of Power and Status_, Joe C. Magee and Adam D. Galinsky
 1. _Organizational Behavior and Human Decision Processes_, Volume 104, Issue 1, September 2007, Pages 30-44
