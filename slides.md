@@ -25,7 +25,7 @@
 
 ## Hierarchy
 
-Bild
+![top_down.jpg](top_down.jpg)
 
 ---
 
@@ -34,14 +34,12 @@ Bild
 _"the classification of a group of people according to ability or to economic, social, or professional standing"_
 
 * word comes from the Greek hierarchēs
-*  word hierarchy is related to governmental words in English
+* word hierarchy is related to governmental words in English
 * such as _monarchy, anarchy,_ and _oligarchy_
 
 ---
 
 ## Power
-
-Bild
 
 _noun_
 * ability to act or produce an effect
@@ -90,11 +88,46 @@ stabilizing hierarchy
 both from the bottom up and from the top down
 
 ---
-What is a good leader?
+
+What is a good leader in a digital organization?
 
 ---
 
-![GithubQR](Github slides.png)
+A digital organization is...
+
+* agile
+* fast
+* ....
+
+---
+
+The people are...
+
+* young
+* geneartion Z
+* greedy for knowledge
+* open minded
+* ....
+
+---
+
+leader characteristics
+
+* 
+
+---
+
+**How to use the power of hierarchy in the right way?**
+
+---
+
+* 
+
+---
+
+**GO ON GITHUB!**
+
+![qr-code.jpg](qr-code.jpg)
 
 ---
 
