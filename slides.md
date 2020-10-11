@@ -111,7 +111,7 @@ The people are...
 
 ---
 
-leader characteristics
+characteristics of a leader in the digital age
 
 * 
 
