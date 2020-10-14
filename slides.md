@@ -9,6 +9,7 @@
 1. Hierarchy
 1. Power
 1. Connection between Power and Hierarchy
+1. Case: Being a leader
 1. Literature
 
 ---
