@@ -89,7 +89,7 @@ both from the bottom up and from the top down
 
 ---
 
-What is a good leader in a digital organization?
+# **What is a good leader in a digital organization?**
 
 ---
 
@@ -97,10 +97,17 @@ A digital organization is...
 
 * agile
 * fast
-* ....
+* disruptive
+* adapative 
+* technology driven
 
 ---
+![Old.jpg](Old.jpg)
+![top_down.jpg](top_down.jpg)
 
+---
+![New.jpg](New.jpg)
+---
 The people are...
 
 * young
@@ -121,7 +128,12 @@ characteristics of a leader in the digital age
 
 ---
 
-* 
+## ~~Power~~
+
+---
+
+# **Enable people to perform at their best**
+
 
 ---
 
