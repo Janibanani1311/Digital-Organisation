@@ -115,13 +115,18 @@ The people are...
 * geneartion Z
 * greedy for knowledge
 * open minded
+* flexible
+* demanding (work-life-balance)
+* decreasing importance of power distance
 * ....
 
 ---
 
 characteristics of a leader in the digital age
 
-* 
+* agile
+* flexible
+* SCRUM (go to method for IT projects)
 
 ---
 
