@@ -103,11 +103,11 @@ A digital organization is...
 * technology driven
 
 ---
-![Old.jpg](Old.jpg)
+![OLD.jpg](OLD.jpg)
 ![top_down.jpg](top_down.jpg)
 
 ---
-![New.jpg](New.jpg)
+![NEW.jpg](NEW.jpg)
 ---
 The people are...
 
@@ -155,12 +155,6 @@ characteristics of a leader in the digital age
 1. _Rogers M.F. (1980) Goffman on Power, Hierarchy, and Status_. In: Ditton J. (eds) The View from Goffman. Palgrave Macmillan, London, Pages 100-101
 1. https://www.merriam-webster.com/dictionary
 1. 
-
----
-
-## Picture
-
-![Bildschirmfoto 2020-09-10 um 13.26.35.png](Bildschirmfoto 2020-09-10 um 13.26.35.png)
 
 ---
 
