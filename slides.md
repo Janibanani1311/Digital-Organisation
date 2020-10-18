@@ -124,14 +124,16 @@ The people are...
 
 characteristics of a leader in the digital age
 
-* agile
-* flexible
-* SCRUM (go to method for IT projects)
+
 
 ---
 
 **How to use the power of hierarchy in the right way?**
 
+1. Trust
+1. Purpose
+1. Culture
+1. Board Skills
 ---
 
 ## ~~Power~~
