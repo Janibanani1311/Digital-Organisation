@@ -130,22 +130,23 @@ The people are...
 
 The characteristics of a leader in the digital age are...
 
-* Integrity
-* Ability to delegate
-* Communication
-* Self-awareness
-* Gratitude
-* Learning agility
-* Empathy
+* integrity
+* ability to delegate
+* communication
+* self-awareness
+* gratitude
+* learning agility
+* empathy
 
 ---
 
 **How to use the power of hierarchy in the right way?**
 
-1. Trust
-1. Purpose
-1. Culture
-1. Board Skills
+**Trust <-**
+**-> Purpose <-**
+**-> Culture <-**
+**-> Board Skills**
+
 ---
 
 ## ~~Power~~
