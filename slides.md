@@ -142,10 +142,10 @@ The characteristics of a leader in the digital age are...
 
 **How to use the power of hierarchy in the right way?**
 
-**Trust <-**
-**-> Purpose <-**
-**-> Culture <-**
-**-> Board Skills**
+**Trust <**
+**- > Purpose <**
+**- > Culture <**
+**- > Board Skills**
 
 ---
 
