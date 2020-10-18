@@ -103,12 +103,16 @@ A digital organization is...
 * technology driven
 
 ---
+
 ![OLD.jpg](OLD.jpg)
 ![top_down.jpg](top_down.jpg)
 
 ---
+
 ![NEW.jpg](NEW.jpg)
+
 ---
+
 The people are...
 
 * young
@@ -141,7 +145,6 @@ characteristics of a leader in the digital age
 ---
 
 # **Enable people to perform at their best**
-
 
 ---
 
