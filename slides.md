@@ -128,7 +128,7 @@ The people are...
 
 ---
 
-characteristics of a leader in the digital age
+The characteristics of a leader in the digital age are...
 
 * Integrity
 * Ability to delegate
@@ -156,7 +156,7 @@ characteristics of a leader in the digital age
 
 ---
 
-**GO ON GITHUB!**
+# **GO ON GITHUB!**
 
 ![qr-code.jpg](qr-code.jpg)
 
