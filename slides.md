@@ -105,6 +105,9 @@ A digital organization is...
 ---
 
 ![OLD.jpg](OLD.jpg)
+
+---
+
 ![top_down.jpg](top_down.jpg)
 
 ---
@@ -115,20 +118,25 @@ A digital organization is...
 
 The people are...
 
-* young
 * geneartion Z
 * greedy for knowledge
 * open minded
 * flexible
 * demanding (work-life-balance)
 * decreasing importance of power distance
-* ....
+* diverse
 
 ---
 
 characteristics of a leader in the digital age
 
-
+* Integrity
+* Ability to delegate
+* Communication
+* Self-awareness
+* Gratitude
+* Learning agility
+* Empathy
 
 ---
 
