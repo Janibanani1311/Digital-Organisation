@@ -169,7 +169,13 @@ The characteristics of a leader in the digital age are...
 1. _Organizational Behavior and Human Decision Processes_, Volume 104, Issue 1, September 2007, Pages 30-44
 1. _Rogers M.F. (1980) Goffman on Power, Hierarchy, and Status_. In: Ditton J. (eds) The View from Goffman. Palgrave Macmillan, London, Pages 100-101
 1. https://www.merriam-webster.com/dictionary
-1. 
+1. https://jorgdesign.springeropen.com/articles/10.1186/s41469-017-0017-y
+1. https://www.peoplematters.in/article/social-media/7-characteristics-digital-mindset-12980
+1. https://digital-leadership-associates.passle.net/post/102gczo/5-ways-good-leaders-can-digitally-disrupt?sf238943287=1
+1. https://www.mckinsey.com/business-functions/mckinsey-digital/how-we-help-clients/digital-organization#
+1. https://www.ccl.org/blog/characteristics-good-leader/
+1. https://www.adlittle.com/sites/default/files/viewpoints/ADL_Definingthedigitalorganization_01.pdf
+1. https://www2.deloitte.com/us/en/pages/human-capital/articles/the-digital-organization.html
 
 ---
 
