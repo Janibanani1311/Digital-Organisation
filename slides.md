@@ -19,7 +19,8 @@
 **Leadership implies power**
 
 * status and **power** are two important bases of **hierarchical differentiation**
-* ...
+* the powerful are the leaders
+* the leaders are at the top of the hierarchy
 
 
 ---
