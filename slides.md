@@ -165,9 +165,9 @@ The characteristics of a leader in the digital age are...
 ---
 
 ## Literature
-1. _8 Social Hierarchy: The Self‐Reinforcing Nature of Power and Status_, Joe C. Magee and Adam D. Galinsky
-1. _Organizational Behavior and Human Decision Processes_, Volume 104, Issue 1, September 2007, Pages 30-44
-1. _Rogers M.F. (1980) Goffman on Power, Hierarchy, and Status_. In: Ditton J. (eds) The View from Goffman. Palgrave Macmillan, London, Pages 100-101
+1. Social Hierarchy: The Self‐Reinforcing Nature of Power and Status_, Joe C. Magee and Adam D. Galinsky
+1. Organizational Behavior and Human Decision Processes_, Volume 104, Issue 1, September 2007, Pages 30-44
+1. Rogers M.F. (1980) Goffman on Power, Hierarchy, and Status_. In: Ditton J. (eds) The View from Goffman. Palgrave Macmillan, London, Pages 100-101
 1. https://www.merriam-webster.com/dictionary
 1. https://jorgdesign.springeropen.com/articles/10.1186/s41469-017-0017-y
 1. https://www.peoplematters.in/article/social-media/7-characteristics-digital-mindset-12980
